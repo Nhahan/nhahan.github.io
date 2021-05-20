@@ -4,36 +4,36 @@
 서버는 클라이언트에게 네트워크를 통해 정보나 서비스를 제공하는 컴퓨터 시스템으로 프로그램 또는 장치(컴퓨터)를 의미
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 # 클라이언트
 서버에 정보를 요청하고, 그 결과를 사용자에게 전달하는 것
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 # HTTP란?
 HTTP(Hypertext Transfer Protocol)하이퍼텍스트 전송 규약. 웹 브라우저(web browser) 같은 응용프로그램을 통해 웹 클라이언트(사용자)와 웹 서버(서비스 제공자) 사이 데이터를 전송하는 프로토콜이다.
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 ## 프로토콜(Protocol)이란? 
 프로토콜은 컴퓨터나 네트워크 장비가 서로 통신하기 위해 미리 정해 놓은 약속, 규약이다.
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 ![](https://images.velog.io/images/kisy324/post/b47ae4bf-ad7c-453c-b74f-d742b8a28544/fafzfb.png)
@@ -46,9 +46,9 @@ HTTP(Hypertext Transfer Protocol)하이퍼텍스트 전송 규약. 웹 브라우
 - 5xx: Server Error - 서버가 요청 처리 실패함
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 ## HTTP Method
@@ -60,9 +60,9 @@ HTTP(Hypertext Transfer Protocol)하이퍼텍스트 전송 규약. 웹 브라우
 - OPTIONS - 시스템에서 지원하는 메소드 확인
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 ## HTTP server종류
@@ -73,9 +73,9 @@ HTTP(Hypertext Transfer Protocol)하이퍼텍스트 전송 규약. 웹 브라우
 - Web sphere
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 ![](https://images.velog.io/images/kisy324/post/93db07e7-d1fa-4302-acc8-cd4270a4b867/restful.png)
@@ -91,9 +91,9 @@ HTTP(Hypertext Transfer Protocol)하이퍼텍스트 전송 규약. 웹 브라우
 6. 자바 애플릿, 자바스크립트, 플래시 등 특정한 기능을 서버로부터 클라이언트가 전달받아 코드를 실행 할 수 있어야 한다.
 
 
-<\br>
+<br/>
 * * * 
-<\br>
+<br/>
 
 
 ## 인터페이스의 일관성
